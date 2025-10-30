@@ -563,6 +563,7 @@ const googleModels = [
   "gemini-2.5-pro-preview-06-05",
   "gemini-2.5-pro",
   "gemini-2.5-flash",
+  "gemini-2.5-flash-lite",
   "gemini-flash-latest",
 ];
 
