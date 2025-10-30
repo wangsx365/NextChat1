@@ -738,10 +738,8 @@ const ai302Models = [
   "qwen3-32b",
   "gemini-2.5-pro-preview-05-06",
   "llama-4-maverick",
-  "gemini-2.5-flash",
   "claude-sonnet-4-20250514",
   "claude-opus-4-20250514",
-  "gemini-2.5-pro",
 ];
 
 let seq = 1000; // 内置的模型序号生成器从1000开始
